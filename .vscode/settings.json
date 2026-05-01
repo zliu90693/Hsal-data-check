@@ -1,3 +1,9 @@
 {
-    "python.defaultInterpreterPath": "/home/liuzhiyu/Software/miniconda3/envs/downstream_analysis/bin/python"
+    "python.defaultInterpreterPath": "/home/liuzhiyu/Software/miniconda3/envs/downstream_analysis/bin/python",
+    "r.rpath.linux": "/home/liuzhiyu/Software/miniconda3/envs/rm_ambient_doublet/bin/R",
+    "r.plot.useHttpgd": true,
+    "r.plot.defaults.colorTheme": "vscode",
+    "r.rterm.linux": "/home/liuzhiyu/Software/miniconda3/envs/rm_ambient_doublet/bin/R",
+    "r.rtermSendDelay": 0,
+    "r.bracketedPaste": true
 }
